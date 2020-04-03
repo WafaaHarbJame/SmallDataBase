@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "24334275654",
+    "firebase_url": "https://smalldatabase-e34a3.firebaseio.com",
+    "project_id": "smalldatabase-e34a3",
+    "storage_bucket": "smalldatabase-e34a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24334275654:android:ac5849c58a2122e349a647",
+        "android_client_info": {
+          "package_name": "com.smalldatabaseapp.smalldatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24334275654-k20deqao31vmcjsrr642moaore7mc8ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa84vKJdJZ9WhIwOohaVsrg2x1xjDRw5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24334275654-k20deqao31vmcjsrr642moaore7mc8ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
