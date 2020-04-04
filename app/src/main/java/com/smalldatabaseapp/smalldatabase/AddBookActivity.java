@@ -57,6 +57,7 @@ public class AddBookActivity extends AppCompatActivity {
     private Uri mImageUri;
     String book_image_url;
 
+    
 
     private CollectionReference BooksDatabaseRef = db.collection("Books");
     int Counter=0;
